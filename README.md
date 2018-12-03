@@ -23,7 +23,7 @@ Add the project to your `dependencies`
 ```
 dependencies {
     ...
-    compile 'com.github.sdelaysam:LanguageDetection:1.0.0'
+    implementation 'com.github.sdelaysam:LanguageDetection:1.0.0'
 }
 ```
 
