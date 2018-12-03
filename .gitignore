@@ -1,0 +1,9 @@
+**/build/
+.idea/
+.gradle/
+*.DS_STORE
+# Local configuration file (sdk path, etc)
+local.properties
+/build
+/captures
+.externalNativeBuild
